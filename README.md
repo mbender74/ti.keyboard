@@ -1,4 +1,4 @@
-# Ti.Keyboard for Appcelerator Titanium SDK 6.2.2.GA+
+# Ti.Keyboard for Appcelerator Titanium SDK 10.1.0.GA+
 
 Because with Appcelerator Titanium you have to call the `blur()` function on a specific `Ti.UI.TextField`
 or `Ti.UI.TextArea` element, it can be a bit difficult and over-complicated to keep track of the latest
