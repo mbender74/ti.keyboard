@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 2.1.0
+apiversion: 2
+architectures: arm64 x86_64
+description: ti.keyboard
+author: Clément Blanco
+license: MIT
+copyright: Copyright (c) 2018 by Cyber-Duck Ltd
+mac:true
+# these should not be edited
+name: ti.keyboard
+moduleid: ti.keyboard
+guid: 21d70b8f-7c00-49ae-a330-3275f82bfeee
+platform: iphone
+minsdk: 10.1.0.GA
